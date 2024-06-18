@@ -1,0 +1,100 @@
+body
+{
+    background-image: url(BodyBG.avif);
+}
+.Art1
+{
+    width: 60%; height: 400px;
+    margin-left: auto; margin-right: auto;
+    padding-bottom: auto;
+    border:5px solid darkmagenta;
+    background-image: url(Art1BG.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Art2
+{
+    width: 60%; height: 350px;
+    margin-left: auto; margin-right: auto;
+    padding-bottom: auto;
+    border:5px solid darkmagenta;
+    background-image: url(Art2BG.jpg);
+}
+.Art3
+{
+    width: 60%; height: 350px;
+    margin-left: auto; margin-right: auto;
+    padding-bottom: auto;
+    border:5px solid darkmagenta;
+    background-image: url(Art1BG.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    text-align: center;
+    color: cyan;
+    font-family: "Playwrite IS", cursive;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: deepskyblue;
+    text-shadow: 2px 2px 3px lightblue;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+.p1
+{
+    color: aqua;
+    font-size: 17px;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500
+}
+.p2
+{
+    color: aquamarine;
+    font-size: 17px;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500
+}
+.p3
+{
+    color: aqua;
+    font-size: 17px;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500
+}
+.a1{
+    color: deeppink;
+    text-decoration-line: none;
+}
+.a2{
+    color: deeppink;
+    text-decoration-line: none;
+}
+.a3{
+    color: red;
+    text-decoration-line: none;
+    font-weight: bold;
+}
