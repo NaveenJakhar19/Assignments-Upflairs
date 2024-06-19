@@ -1,0 +1,18 @@
+.box1{
+    width: 100px; height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 7px 7px 10px -2px lightslategray;
+}
+.box2{
+    width: 100px; height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 3px lightslategray inset;
+}
