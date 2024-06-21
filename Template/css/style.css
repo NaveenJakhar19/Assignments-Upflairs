@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.header{
+    width: 100%; height: 50px; margin: 0 auto;
+    position: fixed;
+    padding: 0;
+}
+.navbar{
+    width: 100%; height: 70%; margin: 0px auto;
+}
+.logo{
+    float: left;
+    padding-top: 10px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.links{
+    float: right;
+    padding-top: 25px;
+    font-size: 17px;
+}
+.links a{
+    text-decoration-line: none;
+    padding-right: 20px;
+    color: red;
+}
+.logo1{
+    color: rgba(255, 0, 0, 0.886);
+}
+.logo2{
+    color: red;
+    opacity: 0.3;
+}
+.heading{
+    width: 100%; height:100px; background-color: red;
+    position: fixed; top: 70px; left: 0;
+    margin: 0;
+}
+.heading h1{
+    color: lightgrey;
+    font-weight: bold;
+    display: block;
+}
+.content{
+    width: 100%; height: auto; margin: 5px 0; padding: 0;
+    position: fixed;
+    top: 170px;
+}
